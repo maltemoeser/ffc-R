@@ -7,3 +7,4 @@ It features
 - cross-validation to find optimal parameters for a linear model
 
 Make sure to visit [http://www.fragilefamilieschallenge.org/](http://www.fragilefamilieschallenge.org/) to learn more about the challenge, apply for the data and create your own submission.
+See [maltemoeser/ffc-challenge](https://github.com/maltemoeser/ffc-challenge) for a submission written in Python.
